@@ -11,11 +11,22 @@ A new Flutter project Its shows the realtime updates on Corona Effected persons 
 
 # Previews :-
 
+<p >
+  <img src="https://github.com/Sreenivassreee/Flutter-Corona-Updates-App-/blob/master/Previwes/1.png" width="350" title="Screenshot-1 "><br>
+  
+  <img src="https://github.com/Sreenivassreee/Flutter-Corona-Updates-App-/blob/master/Previwes/2.png" width="350" title="Screenshot-2 "><br>
+  
+   <img src="https://github.com/Sreenivassreee/Flutter-Corona-Updates-App-/blob/master/Previwes/3.png" width="350" title="Screenshot-3 "><br>
+    <img src="https://github.com/Sreenivassreee/Flutter-Corona-Updates-App-/blob/master/Previwes/4.png" width="350" title="Screenshot-4 "><br>
 
+       
+</p>
 
 
 ## Developed by
 ## K Sreenivas
+
+Made With Love ❤️
 
 
 This project is a starting point for a Flutter application.
